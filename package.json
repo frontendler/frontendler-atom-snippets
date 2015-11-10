@@ -1,16 +1,17 @@
 {
   "name": "frontendler-atom-snippets",
   "main": "./lib/frontendler-atom-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom snippets for Frontendler",
   "keywords": [
-    "frontendler","snippet","snippets"
+    "frontendler",
+    "snippet",
+    "snippets"
   ],
   "repository": "https://github.com/frontendler/frontendler-atom-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
