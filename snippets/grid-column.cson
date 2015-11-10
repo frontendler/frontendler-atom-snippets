@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'grid-column'
+    'body': '@include grid-column(${1:column},${2:columns},${3:gutter:grid-gutter})'
