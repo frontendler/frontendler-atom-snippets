@@ -1,0 +1,8 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'grid-breakpoint-custom'
+    'body': """
+        @include grid-breakpoint-custom(${1:min},${2:max}) {
+            ${3://your css}
+}
+    """
