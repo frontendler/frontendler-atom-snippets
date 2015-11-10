@@ -6,7 +6,7 @@
   "keywords": [
     "frontendler","snippet","snippets"
   ],
-  "repository": "https://github.com/atom/frontendler-atom-snippets",
+  "repository": "https://github.com/frontendler/frontendler-atom-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
