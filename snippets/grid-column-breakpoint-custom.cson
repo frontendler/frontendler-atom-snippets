@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'grid-column-breakpoint-custom'
+    'body': '@include grid-column-breakpoint-custom(${1:min},${2:max},${3:column},${4:columns},${5:gutter});'

@@ -1,4 +1,4 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-breakpoint-hide'
-    'body': '@include grid-breakpoint-hide("${1:breakpoints}")'
+    'body': '@include grid-breakpoint-hide("${1:breakpoints}");'

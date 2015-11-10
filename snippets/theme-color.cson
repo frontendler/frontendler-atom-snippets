@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'theme-color'
+    'body': 'theme-color("${1:color-name}",${2:amount:50%})'

@@ -1,7 +1,7 @@
 {
   "name": "frontendler-atom-snippets",
   "main": "./lib/frontendler-atom-snippets",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Atom snippets for Frontendler",
   "keywords": [
     "frontendler","snippet","snippets"

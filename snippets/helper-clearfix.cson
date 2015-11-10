@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'clearfix'
+    'body': '@include clearfix();'
