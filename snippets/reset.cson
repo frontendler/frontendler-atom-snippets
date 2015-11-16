@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'reset'
+    'body': '@include reset();'

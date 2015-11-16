@@ -1,0 +1,13 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'grid-breakpoints'
+    'body': """
+        $grid-breakpoints:(
+        	"small":   100% max 640px,
+        	"medium":  100% min 641px max 1024px,
+        	"large":   1024px min 1025px max 1440px,
+        	"xlarge":  1440px min 1441px max 1920px,
+        	"xxlarge": 1920px min 1921px
+        );
+};
+    """

@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'box-shadow'
+    'body': '@include box-shadow(${1:level});'

@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'color'
+    'body': 'colors("${1:color-name}",${2:amount:50%})'

@@ -1,0 +1,4 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'animation-time-function'
+    'body': 'animation-time-function("${1:name}")'

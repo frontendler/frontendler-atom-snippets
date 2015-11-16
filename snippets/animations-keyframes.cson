@@ -1,0 +1,17 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'animation-keyframes'
+    'body': """
+        $animation-keyframes:(
+        	"fade-in",
+        	"fade-out",
+        	"bounce-in-down",
+        	"bounce-in-up",
+        	"rubber-band",
+        	"zoom-in",
+        	"slide-in-up",
+        	"slide-in-down",
+        	"alert"
+        );
+};
+    """

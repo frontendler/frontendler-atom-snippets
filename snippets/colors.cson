@@ -1,0 +1,19 @@
+'.source.scss':
+  'Frontendler':
+    'prefix': 'colors'
+    'body': """
+        $colors:(
+            "ocean":   #00a7ca,
+        	"blue":    #0075d3,
+        	"purple":  #8244a7,
+        	"pink":    #dd318a,
+        	"green":   #71be48,
+        	"yellow":  #f59d37,
+        	"orange":  #f75925,
+        	"red":     #dd202b,
+        	"dark":    #1c2731,
+        	"gray":    #606c78,
+        	"silver":  #939fac
+        );
+};
+    """
