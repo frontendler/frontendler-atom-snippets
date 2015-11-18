@@ -9,5 +9,4 @@
         	"xlarge":  1440px min 1441px max 1920px,
         	"xxlarge": 1920px min 1921px
         );
-};
     """
