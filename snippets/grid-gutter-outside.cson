@@ -1,4 +1,0 @@
-'.source.scss':
-  'Frontendler':
-    'prefix': 'grid-gutter-outside'
-    'body': '$grid-gutter-outside'

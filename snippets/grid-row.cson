@@ -1,4 +1,4 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-row'
-    'body': '@include grid-row(${1:gutter},${2:breakpoints});'
+    'body': '@include grid-row();'
