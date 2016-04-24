@@ -8,5 +8,5 @@
         	"medium": 100% min 961px max 1280px,
         	"large":  1280px min 1281px max 1600px,
             "xlarge": 1600px min 1601px
-        );
+        )
     """
