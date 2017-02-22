@@ -1,4 +1,4 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-column-breakpoint'
-    'body': '@include grid-column-breakpoint("${1:breakpoint}",${2:column},${3:columns},${4:gutter});'
+    'body': '@include grid-column-breakpoint("${1:breakpoint}",${2:flex},${3:gutter});'
