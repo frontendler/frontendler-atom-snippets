@@ -1,9 +1,13 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'clearfix'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '@include clearfix();'
 
 '.source.sass':
   'Frontendler':
     'prefix': 'clearfix'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '+clearfix();'

@@ -1,6 +1,9 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'animation-time-functions'
+    "leftLabelHTML": "var"
+    'description': 'Default value of $animation-time-functions.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': """
         $animation-time-functions: (
         	"in-out-quad": cubic-bezier(0.455, 0.030, 0.515, 0.955),

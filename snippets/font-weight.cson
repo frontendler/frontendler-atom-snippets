@@ -1,8 +1,7 @@
-'.source.scss, .source.sass':
+'.source.scss, .source.sass':  
   'Frontendler':
     'prefix': 'font-weight'
-    'body': '$font-weight'
-  
-  'Frontendler':
-    'prefix': 'font-weight'
+    "leftLabelHTML": "fn()"
+    'description': 'Add font-weight value based on the name in $font-weights list.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': 'font-weight("${1:font-weight-name}")'

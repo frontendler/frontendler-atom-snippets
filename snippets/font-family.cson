@@ -1,4 +1,7 @@
 '.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'font-family'
+    "leftLabelHTML": "var"
+    'description': 'Default value of font-family.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '$font-family'

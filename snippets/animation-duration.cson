@@ -1,4 +1,7 @@
 '.source.scss, , .source.sass':
   'Frontendler':
     'prefix': 'animation-duration'
+    "leftLabelHTML": "var"
+    'description': 'Default value of animation-duration.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '$animation-duration'

@@ -1,13 +1,15 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-row'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '@include grid-row();'
-
-
 
 '.source.sass':
   'Frontendler':
     'prefix': 'grid-row'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '+grid-row();'
 
 

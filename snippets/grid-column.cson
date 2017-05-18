@@ -1,9 +1,13 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-column'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '@include grid-column(${1:flex},${2:gutter});'
 
 '.source.sass':
   'Frontendler':
     'prefix': 'grid-column'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '+grid-column(${1:flex},${2:gutter});'

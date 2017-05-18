@@ -1,4 +1,7 @@
 '.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'color'
+    "leftLabelHTML": "fn()"
+    'description': 'Add color value based on the name in $colors list.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': 'color("${1:color-name}")'

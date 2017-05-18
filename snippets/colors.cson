@@ -1,6 +1,9 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'colors'
+    "leftLabelHTML": "var"
+    'description': 'Default value of $colors list.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': """
         $colors:(
             "ocean":   #00a7ca,

@@ -1,11 +1,14 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-breakpoint-hide'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '@include grid-breakpoint-hide("${1:breakpoints}");'
-    
-    
+      
 '.source.sass':
   'Frontendler':
     'prefix': 'grid-breakpoint-hide'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '+grid-breakpoint-hide("${1:breakpoints}");'
 

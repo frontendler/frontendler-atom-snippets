@@ -1,12 +1,14 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'grid-breakpoints'
+    "leftLabelHTML": "var"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': """
         $grid-breakpoints:(
         	"xsmall": 100% max 600px,
         	"small":  100% min 601px max 960px,
         	"medium": 100% min 961px max 1280px,
         	"large":  1280px min 1281px max 1600px,
-            "xlarge": 1600px min 1601px
+          "xlarge": 1600px min 1601px
         );
     """

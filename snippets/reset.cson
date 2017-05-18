@@ -1,9 +1,13 @@
 '.source.scss':
   'Frontendler':
     'prefix': 'reset'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '@include reset();'
 
 '.source.sass':
   'Frontendler':
     'prefix': 'reset'
+    "leftLabelHTML": "mixin()"
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '+reset();'
