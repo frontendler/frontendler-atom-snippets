@@ -1,6 +1,10 @@
 '.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'font-size'
+    "leftLabelHTML": "var"
+    "rightLabelHTML": "$font-size"
+    'description': '$font-size \nDefault value of font-size.'
+    "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '$font-size'
   
   'Frontendler':
