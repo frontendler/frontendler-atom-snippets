@@ -1,0 +1,8 @@
+'.source.scss, .source.sass':
+  'Frontendler':
+    'prefix': 'font-weight'
+    'body': '$font-weight'
+  
+  'Frontendler':
+    'prefix': 'font-weight'
+    'body': 'font-weight("${1:font-weight-name}")'
