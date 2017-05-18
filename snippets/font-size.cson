@@ -5,4 +5,4 @@
   
   'Frontendler':
     'prefix': 'font-size'
-    'body': 'font("${1:font-size-name}")'
+    'body': 'font-size("${1:font-size-name}")'
