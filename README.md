@@ -1,5 +1,8 @@
 # Frontendler Atom Snippets
 
+[![apm](https://img.shields.io/apm/v/frontendler-atom-snippets.svg)]()
+[![apm](https://img.shields.io/apm/dm/frontendler-atom-snippets.svg)]()
+
 Atom snippets for:
 
 Frontendler Sass Library <https://github.com/frontendler/frontendler-sass>
