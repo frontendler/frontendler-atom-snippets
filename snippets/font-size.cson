@@ -3,7 +3,7 @@
     'prefix': 'font-size'
     "leftLabelHTML": "var"
     "rightLabelHTML": "$font-size"
-    'description': '$font-size \nDefault value of font-size.'
+    'description': 'Default value of font-size.'
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '$font-size'
   
@@ -11,6 +11,6 @@
     'prefix': 'font-size'
     "leftLabelHTML": "fn()"
     "rightLabelHTML": "font-size('${1:font-size-name}')"
-    'description': '$grid-gutter \nAdd font-size value based in name in font-size list.'
+    'description': 'Add font-size value based in name in font-size list.'
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': 'font-size("${1:font-size-name}")'

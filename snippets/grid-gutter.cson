@@ -3,7 +3,7 @@
     'prefix': 'grid-gutter'
     "leftLabelHTML": "var"
     "rightLabelHTML": "$grid-gutter"
-    'description': '$grid-gutter \nSpace between columns in grid system'
+    'description': 'Space between columns in grid system'
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
     'body': '$grid-gutter'
     
