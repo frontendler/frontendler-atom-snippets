@@ -2,3 +2,8 @@
   'Frontendler':
     'prefix': 'clearfix'
     'body': '@include clearfix();'
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'clearfix'
+    'body': '+clearfix();'

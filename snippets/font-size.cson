@@ -1,4 +1,8 @@
-'.source.scss':
+'.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'font-size'
     'body': '$font-size'
+  
+  'Frontendler':
+    'prefix': 'font-size'
+    'body': 'font("${1:font-size-name}")'

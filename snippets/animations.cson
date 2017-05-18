@@ -2,3 +2,9 @@
   'Frontendler':
     'prefix': 'animations'
     'body': '@include animations;'
+
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'animations'
+    'body': '+animations;'

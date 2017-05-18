@@ -1,4 +1,4 @@
-'.source.scss':
+'.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'color'
     'body': 'color("${1:color-name}")'

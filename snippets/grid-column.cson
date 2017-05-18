@@ -2,3 +2,8 @@
   'Frontendler':
     'prefix': 'grid-column'
     'body': '@include grid-column(${1:flex},${2:gutter});'
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'grid-column'
+    'body': '+grid-column(${1:flex},${2:gutter});'

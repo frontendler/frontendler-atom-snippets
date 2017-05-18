@@ -1,4 +1,4 @@
-'.source.scss':
+'.source.scss, .source.sass':
   'Frontendler':
     'prefix': 'grid-gutter'
     'body': '$grid-gutter'

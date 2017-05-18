@@ -2,3 +2,8 @@
   'Frontendler':
     'prefix': 'reset'
     'body': '@include reset();'
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'reset'
+    'body': '+reset();'

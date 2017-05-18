@@ -2,3 +2,13 @@
   'Frontendler':
     'prefix': 'grid-row'
     'body': '@include grid-row();'
+
+
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'grid-row'
+    'body': '+grid-row();'
+
+
+

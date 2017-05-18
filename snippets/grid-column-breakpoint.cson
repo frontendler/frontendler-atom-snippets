@@ -2,3 +2,9 @@
   'Frontendler':
     'prefix': 'grid-column-breakpoint'
     'body': '@include grid-column-breakpoint("${1:breakpoint}",${2:flex},${3:gutter});'
+
+
+'.source.sass':
+  'Frontendler':
+    'prefix': 'grid-column-breakpoint'
+    'body': '+grid-column-breakpoint("${1:breakpoint}",${2:flex},${3:gutter});'

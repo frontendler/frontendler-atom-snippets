@@ -2,3 +2,9 @@
   'Frontendler':
     'prefix': 'box-shadow'
     'body': '@include box-shadow(${1:level});'
+    
+'.source.sass':
+  'Frontendler':
+    'prefix': 'box-shadow'
+    'body': '+box-shadow(${1:level});'
+

@@ -1,4 +1,4 @@
-'.source.scss':
+'.source.scss, , .source.sass':
   'Frontendler':
     'prefix': 'animation-duration'
     'body': '$animation-duration'
