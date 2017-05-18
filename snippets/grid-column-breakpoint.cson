@@ -10,4 +10,4 @@
     'prefix': 'grid-column-breakpoint'
     "leftLabelHTML": "mixin()"
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
-    'body': '+grid-column-breakpoint("${1:breakpoint}",${2:flex},${3:gutter});'
+    'body': '+grid-column-breakpoint("${1:breakpoint}",${2:flex},${3:gutter})'

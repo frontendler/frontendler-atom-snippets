@@ -10,4 +10,4 @@
     'prefix': 'reset'
     "leftLabelHTML": "mixin()"
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
-    'body': '+reset();'
+    'body': '+reset()'

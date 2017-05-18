@@ -10,5 +10,5 @@
     'prefix': 'box-shadow'
     "leftLabelHTML": "mixin()"
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
-    'body': '+box-shadow(${1:level});'
+    'body': '+box-shadow(${1:level})'
 

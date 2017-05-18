@@ -12,4 +12,4 @@
     "leftLabelHTML": "mixin"
     'description': 'Include all keyframes listed in $animations-keyframes list.'
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
-    'body': '+animations;'
+    'body': '+animations'

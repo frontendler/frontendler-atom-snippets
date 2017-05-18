@@ -10,7 +10,7 @@
     'prefix': 'grid-row'
     "leftLabelHTML": "mixin()"
     "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
-    'body': '+grid-row();'
+    'body': '+grid-row()'
 
 
 

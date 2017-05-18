@@ -15,6 +15,6 @@
       "leftLabelHTML": "mixin()"
       "descriptionMoreURL": "https://www.npmjs.com/package/frontendler-sass"
       'body': """
-          @include grid-breakpoint("${1:breakpoints}")
+          +grid-breakpoint("${1:breakpoints}")
               ${2://your css}
       """
